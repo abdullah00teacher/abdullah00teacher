@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abdullah00teacher
+- 👀 I’m interested in Ethical hacking with python, react. next
+- 🌱 I’m currently learning react, nsxtjs
+- 💞️ I’m looking for a new job as a front-end engineer
